@@ -10,7 +10,7 @@ Bachelor's degree in Computer Science completed on Universidade São Judas Tadeu
 <p><img src="https://img.shields.io/badge/-.NET%20Core%20-512BD4?logo=.NET&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-.NET%20MVC%20-512BD4?logo=.NET&logoColor=white&style=for-the-badge" /></p>
 
 <hr />
-If you want to get in touch with me, see the links below:
+If you want to get in touch, see the links below:
 <p><a href="https://www.linkedin.com/in/lucas-sant-anna-cavalcante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge" /></a></p>
 
 
